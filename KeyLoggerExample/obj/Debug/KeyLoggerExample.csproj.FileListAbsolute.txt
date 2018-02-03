@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\Prototypes\ExamenFinal2015Developer\KeyLoggerExample\bin\Debug\KeyLoggerExample.exe.config
+C:\Users\Daniel\Desktop\Prototypes\ExamenFinal2015Developer\KeyLoggerExample\bin\Debug\KeyLoggerExample.exe
+C:\Users\Daniel\Desktop\Prototypes\ExamenFinal2015Developer\KeyLoggerExample\bin\Debug\KeyLoggerExample.pdb
+C:\Users\Daniel\Desktop\Prototypes\ExamenFinal2015Developer\KeyLoggerExample\bin\Debug\KeystrokeAPI.dll
+C:\Users\Daniel\Desktop\Prototypes\ExamenFinal2015Developer\KeyLoggerExample\obj\Debug\KeyLoggerExample.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Prototypes\ExamenFinal2015Developer\KeyLoggerExample\obj\Debug\KeyLoggerExample.exe
+C:\Users\Daniel\Desktop\Prototypes\ExamenFinal2015Developer\KeyLoggerExample\obj\Debug\KeyLoggerExample.pdb
